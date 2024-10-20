@@ -1,4 +1,4 @@
-module github.com/danmrichards/xkpassgo
+module github.com/ErebusBat/xkpassgo
 
 go 1.13
 
